@@ -1,4 +1,4 @@
-![image](https://github.com/raulmahya123/neta/blob/master/chapter1/1.png?raw=true)
+![image](https://github.com/raulmahya123/netafixxx/blob/master/chapter1/1.png?raw=true)
 `cd ~/.ssh/` adalah perintah yang digunakan pada terminal untuk berpindah ke direktori ".ssh" dalam direktori home pengguna.
 
 Berikut penjelasan langkah demi langkah:
@@ -24,7 +24,7 @@ Setelah Anda menjalankan perintah `ssh-keygen -t rsa`, langkah-langkah berikut a
 4. Kunci privat akan disimpan di lokasi yang Anda tentukan sebelumnya (atau lokasi default jika Anda tidak mengubahnya). Kunci privat ini harus dijaga kerahasiaan dan tidak boleh dibagikan atau diunggah ke tempat yang tidak aman.
 
 Setelah berhasil menghasilkan pasangan kunci SSH RSA, Anda dapat menggunakan kunci publik untuk mengautentikasi diri saat mengakses server atau layanan yang membutuhkan kunci SSH. Pastikan Anda melindungi kunci privat dengan baik dan hanya membagikan kunci publik yang terkait dengan orang atau sistem yang dapat dipercaya.
-![image](https://github.com/raulmahya123/neta/blob/master/chapter1/3.png?raw=true)
+![image](https://github.com/raulmahya123/netafixxx/blob/master/chapter1/3.png?raw=true)
 Untuk membuka GitHub di Google, Anda dapat mengikuti langkah-langkah berikut:
 
 1. Buka browser web Google Chrome atau browser web lainnya yang Anda gunakan.
@@ -35,9 +35,9 @@ Untuk membuka GitHub di Google, Anda dapat mengikuti langkah-langkah berikut:
 6. Setelah berhasil masuk atau mendaftar, Anda dapat menjelajahi repositori publik di GitHub, mengakses profil pengguna, membuat repositori baru, atau berinteraksi dengan repositori yang ada.
 
 Pastikan Anda terhubung ke internet dan memiliki browser web yang mendukung akses ke situs web. Dengan mengikuti langkah-langkah di atas, Anda akan dapat membuka dan mengakses GitHub di Google.
-![image](https://github.com/raulmahya123/neta/blob/master/chapter1/4.png?raw=true)
+![image](https://github.com/raulmahya123/netafixxx/blob/master/chapter1/4.png?raw=true)
 buka settings cari ssh key
-![image](https://github.com/raulmahya123/neta/blob/master/chapter1/5.png?raw=true)
+![image](https://github.com/raulmahya123/netafixxx/blob/master/chapter1/5.png?raw=true)
 copykan dari gambar kedua yang berisigi generate code untuk ssh key setealh di add
-![image](https://github.com/raulmahya123/neta/blob/master/chapter1/Screenshot_1.png?raw=true)
+![image](https://github.com/raulmahya123/netafixxx/blob/master/chapter1/Screenshot_1.png?raw=true)
 lalu muncul seperti ini
