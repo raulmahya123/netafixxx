@@ -1,10 +1,10 @@
-![image](https://github.com/raulmahya123/netafixxx/blob/master/chapter5/1.png?raw=true)
-![image](https://github.com/raulmahya123/netafixxx/blob/master/chapter5/2.png?raw=true)
-![image](https://github.com/raulmahya123/netafixxx/blob/master/chapter5/3.png?raw=true)
-![image](https://github.com/raulmahya123/netafixxx/blob/master/chapter5/4.png?raw=true)
-![image](https://github.com/raulmahya123/netafixxx/blob/master/chapter5/5.png?raw=true)
-![image](https://github.com/raulmahya123/netafixxx/blob/master/chapter5/6.png?raw=true)
-![image](https://github.com/raulmahya123/netafixxx/blob/master/chapter5/7fix.png?raw=true)
+![image](https://github.com/raulmahya123/netafixxx/blob/master/chapter5fix/1.png?raw=true)
+![image](https://github.com/raulmahya123/netafixxx/blob/master/chapter5fix/2.png?raw=true)
+![image](https://github.com/raulmahya123/netafixxx/blob/master/chapter5fix/3.png?raw=true)
+![image](https://github.com/raulmahya123/netafixxx/blob/master/chapter5fix/4.png?raw=true)
+![image](https://github.com/raulmahya123/netafixxx/blob/master/chapter5fix/5.png?raw=true)
+![image](https://github.com/raulmahya123/netafixxx/blob/master/chapter5fix/6.png?raw=true)
+![image](https://github.com/raulmahya123/netafixxx/blob/master/chapter5fix/7fix.png?raw=true)
 
 # ini link db ##http://185.27.134.10/db_structure.php?db=if0_34565185_data
 # ini link websitenya http://neta.rf.gd/index.php
