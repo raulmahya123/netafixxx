@@ -8,7 +8,7 @@ Berikut penjelasan langkah demi langkah:
 3. `/.ssh/`: Merupakan nama direktori yang ingin dituju. Dalam hal ini, ".ssh" adalah direktori yang berada di dalam direktori home pengguna dan diawali dengan tanda "." yang menandakan bahwa direktori tersebut adalah direktori tersembunyi.
 
 Jadi, `cd ~/.ssh/` akan memindahkan Anda ke direktori ".ssh" dalam direktori home pengguna saat ini. Direktori ".ssh" umumnya digunakan untuk menyimpan kunci SSH, konfigurasi, dan informasi keamanan terkait SSH.
-![image](https://github.com/raulmahya123/neta/blob/master/chapter1/2ifx.png?raw=true)
+![image](https://github.com/raulmahya123/netafixxx/blob/master/chapter1/2ifx.png?raw=true)
 `ssh-keygen -t rsa` adalah perintah yang digunakan untuk menghasilkan pasangan kunci SSH RSA baru.
 
 Berikut penjelasan langkah demi langkah:
